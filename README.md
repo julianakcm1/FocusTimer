@@ -18,3 +18,9 @@ Por meio desse módulo, foi aprendido:
 - Injeção de dependências;
 - Refatoração de código;
 - Adicionar sons pelo JavaScript;
+
+<div align='center'>
+  
+  ![Captura de tela de 2023-03-30 06-13-44](https://user-images.githubusercontent.com/54086293/228789098-68bfc00f-76c8-48c7-b3e4-78f5962067bd.png)
+  
+</div>
