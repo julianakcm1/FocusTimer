@@ -1,26 +1,49 @@
-# FocusTimer
-Curso Explorer - Rocketseat - Stage 5
+<div align="center">
+  
+# Focus Timer <br>
 
-Design: https://www.figma.com/file/QsMUfeoDxsgk8IlpJb5NvS/Explorer-Stage-05-Projeto-01-(Copy)?node-id=0-1&t=FYVq2wwkPCjLr7pg-0
+</div>
 
-Por meio desse módulo, foi aprendido:
-
-- A utilização de variáveis no CSS;
-- A utilização da propriedade `clamp()`;
-- A utilização do `display: grid`;
-- A utilização da DOM no navegador;
-- Funções callbacks;
-- Recursividade;
-- Princípios do Clean Code;
-- Escopos;
-- ES6 Modules;
-- Padrão Factory;
-- Injeção de dependências;
-- Refatoração de código;
-- Adicionar sons pelo JavaScript;
+<p align="center">
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tech">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contact">Contact</a><br><br>
+</p>
 
 <div align='center'>
   
   ![Captura de tela de 2023-03-30 06-13-44](https://user-images.githubusercontent.com/54086293/228789098-68bfc00f-76c8-48c7-b3e4-78f5962067bd.png)
   
+</div>
+
+<div id="-project">
+
+## :computer: Project
+
+The project is a timer. There is the possibility of muting the sound or leaving it on.
+
+</div>
+
+<div id="-tech">
+
+## :rocket: Technologies
+
+This project was developed with the following technologies:
+
+- HTML  
+- CSS
+- Javascript
+- Git
+- Github
+- [Figma](https://www.figma.com/design/QsMUfeoDxsgk8IlpJb5NvS/FOCUS-TIMER?node-id=0%3A1&t=ecDDIh0Lf6Nko1xO-1)
+
+</div>
+
+<div id="-contact">
+
+## :envelope: Contact
+
+- E-mail: julianakcmelo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/julianakcmelo/
+
 </div>
